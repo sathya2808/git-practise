@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 hi santhosh  are you ok?
 
 yes im good and i doing work properly.
+=======
+hi santhosh
+>>>>>>> parent of f1aac35 (hee)
